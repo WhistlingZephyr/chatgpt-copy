@@ -71,7 +71,8 @@
                                   let count = 1;
                                   return (
                                       gptMsg.innerHTML
-                                          .replace(/<\/?(?:code|p)>/g, '`')
+                                          .replace(/<\/?code>/g, '`')
+                                          .replace(/<\/?p>/g, '')
                                           .replace(
                                               /<li>(.+?)<\/li>/g,
                                               (_match, p1) =>
