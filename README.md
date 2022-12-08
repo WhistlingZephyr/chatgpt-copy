@@ -4,12 +4,12 @@ A UserScript to easily copy ChatGPT conversations to clipboard.
 ## Instructions
 ### Step 1.: Script Manager
 Install one of the following:
-    - https://addons.mozilla.org/firefox/addon/greasemonkey/
-    - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-    - https://addons.opera.com/extensions/details/tampermonkey-beta/
-    - https://addons.opera.com/extensions/details/violent-monkey/
-    - https://safari.tampermonkey.net/tampermonkey.safariextz
-    - https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s
+- https://addons.mozilla.org/firefox/addon/greasemonkey/
+- https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+- https://addons.opera.com/extensions/details/tampermonkey-beta/
+- https://addons.opera.com/extensions/details/violent-monkey/
+- https://safari.tampermonkey.net/tampermonkey.safariextz
+- https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s
 ### Step 2. UserScript:
 Install the UserScript from here: https://raw.githubusercontent.com/WhistlingZephyr/chatgpt-copymaster/chatgpt-copy.user.js
 ### Step 3. Usage:
