@@ -3,8 +3,8 @@
 // @namespace    https://github.com/WhistlingZephyr/chatgpt-copy
 // @homepage     https://github.com/WhistlingZephyr/chatgpt-copy
 // @supportURL   https://github.com/WhistlingZephyr/chatgpt-copy/issues
-// @updateURL    https://raw.githubusercontent.com/WhistlingZephyr/chatgpt-copy/main/chatgpt-copy.user.js
-// @downloadURL  https://raw.githubusercontent.com/WhistlingZephyr/chatgpt-copy/main/chatgpt-copy.user.js
+// @updateURL    https://github.com/WhistlingZephyr/chatgpt-copy/raw/main/chatgpt-copy.user.js
+// @downloadURL  https://github.com/WhistlingZephyr/chatgpt-copy/raw/main/chatgpt-copy.user.js
 // @version      0.1
 // @description  A simple UserScript to copy ChatGPT conversations to clipboard
 // @author       WhistlingZephyr
