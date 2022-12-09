@@ -75,8 +75,10 @@
                                           .replace(/<\/?p>/g, '')
                                           .replace(
                                               /<li>(.+?)<\/li>/g,
-                                              (_match, p1) =>
-                                                  `${count++}. ${p1}\n`
+                                              gptMsg.tagName == 'UL'
+                                                  ? '\n- $1'
+                                                  : (_match, p1) =>
+                                                        `\n${count++}. ${p1}`
                                           )
                                           .trim() + '\n'
                                   );
