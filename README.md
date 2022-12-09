@@ -11,7 +11,7 @@ Install one of the following:
 - https://safari.tampermonkey.net/tampermonkey.safariextz
 - https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s
 ### Step 2. UserScript:
-Install the UserScript from here: https://raw.githubusercontent.com/WhistlingZephyr/chatgpt-copy/master/chatgpt-copy.user.js
+Install the UserScript from here: https://raw.githubusercontent.com/WhistlingZephyr/chatgpt-copy/main/chatgpt-copy.user.js
 ### Step 3. Usage:
 1. Open up https://chat.openai.com/chat.
 2. Refresh if you just logged in.
