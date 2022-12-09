@@ -155,6 +155,12 @@
         },
         'c'
     );
-
+    GM.registerMenuCommand(
+        'Clear storage',
+        async () => {
+            await GM.setValue('conversation', '[]');
+        },
+        'x'
+    );
     callback();
 })();
