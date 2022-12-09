@@ -33,7 +33,10 @@
         };
         for (const key in defaults) {
             if (Object.hasOwnProperty.call(defaults, key)) {
-                if (!values.includes(key) || !(await GM.getValue(key))) {
+                if (
+                    !values.includes(key) ||
+                    (await GM.getValue(key)) == undefined
+                ) {
                     await GM.setValue(key, defaults[key]);
                 }
             }
