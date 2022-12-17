@@ -51,7 +51,7 @@
             msg => {
                 return msg.firstChild.tagName
                     ? botPrefix +
-                          [...msg.querySelectorAll('[class^=request-] > *')]
+                          [...msg.querySelectorAll('.markdown > *')]
                               .map(gptMsg => {
                                   if (gptMsg.tagName === 'PRE') {
                                       const code = gptMsg.querySelector('code');
