@@ -19,4 +19,4 @@ Install the UserScript from here: https://github.com/WhistlingZephyr/chatgpt-cop
 4. Press "c" or click on the copy option of ChatGPT Copy.
 Optionally, you can activate it from the context menu through right-clicking on the page.
 ### Step 4. Config
-After running the script once, you can upon its storage up in your Script Manager's dashboard and change its config.
+After running the script once, you can open its storage up in your Script Manager's dashboard and change its config.
